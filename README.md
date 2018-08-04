@@ -1,6 +1,6 @@
 # Goal
 
-The repo is to contain the experiments based on the [Mastermind Game] (https://en.wikipedia.org/wiki/Mastermind_(board_game)). The result of this 
+The repo is to contain the experiments based on the [Mastermind Game](https://en.wikipedia.org/wiki/Mastermind_(board_game)). The result of this 
 exercise is to 
 
 1. implement the game with mutliple extensions 
